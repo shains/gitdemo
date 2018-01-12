@@ -1,1 +1,11 @@
-a
+<<<<<<< HEAD
+public static void main ()
+{ 
+//this is the main method of the class, ...
+init();
+int x=0;
+double d = 0.2;
+f(x,y,z)
+finalize();
+}
+>>>>>>> de55f7fbcf0761f4e71cad03644ef1675fbb88b6
